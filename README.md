@@ -1,7 +1,7 @@
 # CustomertoCompany-Relations-agraph-Streamlit
 This is a project that drafts out common companies among a list of customers on an agraph in Streamlit.
 
-Features:
+Features:  
 -Sidebar for file uploading.  
 -Checks file extension and gives error if wrong file format (not an .xlsx)  
 -Able to ingest excel format   
